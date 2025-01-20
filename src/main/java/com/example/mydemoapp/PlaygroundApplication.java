@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Simple app to demo various features of Java, Spring Boot, and more...
  */
 @SpringBootApplication
-public class MyDemoAppApplication {
+public class PlaygroundApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MyDemoAppApplication.class, args);
+        SpringApplication.run(PlaygroundApplication.class, args);
     }
 
 }
